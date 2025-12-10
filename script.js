@@ -18,6 +18,7 @@
   function show(){
     img.src = images[count]
     img.style.width = "100%";
+     img.style.height= "100%";
     img.style.backgroundPosition = "cover"
   }
 
