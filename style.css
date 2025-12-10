@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+     
+}
+body{
+    height: 100vh;
+      justify-content: center;
+       display: flex;
+       align-items: center;
+       background-image: linear-gradient(to top, #d9afd9 0%, #97d9e1 100%);
+}
+.container{
+    /* border: 2px solid black; */
+     border-radius: 20px;
+    width: 70%;
+    height: 400px;
+    overflow: hidden;
+    box-shadow: rgba(97, 97, 211, 0.948) 0px 13px 27px -5px;
+}
+
